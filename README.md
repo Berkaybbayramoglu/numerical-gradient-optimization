@@ -58,6 +58,9 @@ pip install matplotlib plotly
 ## Visualizing Optimization Paths
 This repository includes various loss surfaces such as the Ellipsoid, Valley, and Himmelblau functions. Optimization paths are visualized in 3D, so you can easily track the progression of each optimization algorithm across these surfaces.
 
+> ⚠️ **Note:** Some visual outputs (e.g., 3D plots of optimization paths) are interactive and may not render properly on GitHub. To explore these dynamic models, please run the code locally on your machine after cloning the repository.
+
+
 ### Examples
 Below are some example visualizations for the Nesterov Accelerated Gradient (NAG) algorithm on the Himmelblau loss function:
 
